@@ -20,7 +20,7 @@ cd from-the-community
 git branch
 ```
 
-### add your code and make a PR
+### Add your code and make a PR
 
 After you have made your changes, you will need to push the local files with the changes back to GitHub in order to submit a pull request. Assuming you are still on the develop branch, you will be pushing your changes from the local develop branch to the develop branch of the forked repo at your GitHub account.
 
@@ -31,3 +31,15 @@ git push origin develop
 ```
 
 If there is anything to improve further with the contribution guide, please kindly send us a hello at <ho@pythonghana.org> or go ahead and make a PR with a fix and we will be glad to take a look :joy
+
+[A](#A)
+
+## Demo
+
+- [A for Apple](#A) - A for Apple. **By [Python Ho](https://github.com/hopythonusergroup/from-the-community)**
+
+### <a name="A">A</a>
+
+### <a name="B">B<a>
+
+### <a name="C">C<a>
