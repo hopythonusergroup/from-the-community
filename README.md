@@ -20,7 +20,7 @@ cd from-the-community
 git branch
 ```
 
-## Add your code and make a PR
+## Pushing your code to GitHub
 
 After you have made your changes, you will need to push the local files with the changes back to GitHub in order to submit a pull request. Assuming you are still on the develop branch, you will be pushing your changes from the local develop branch to the develop branch of the forked repo at your GitHub account.
 
