@@ -20,7 +20,7 @@ cd from-the-community
 git branch
 ```
 
-### Add your code and make a PR
+## Pushing your code to GitHub
 
 After you have made your changes, you will need to push the local files with the changes back to GitHub in order to submit a pull request. Assuming you are still on the develop branch, you will be pushing your changes from the local develop branch to the develop branch of the forked repo at your GitHub account.
 
@@ -32,14 +32,62 @@ git push origin develop
 
 If there is anything to improve further with the contribution guide, please kindly send us a hello at <ho@pythonghana.org> or go ahead and make a PR with a fix and we will be glad to take a look :joy
 
-[A](#A)
+## Project List
+
+[A](#A) | [B](#B) | [C](#C) | [D](#D) | [E](#E) | [F](#F) | [G](#G) | [H](#H) | [I](#I) | [J](#J) | [K](#K) | [L](#L) | [M](#M) | [N](#N) | [O](#O) | [P](#P) | [Q](#Q) | [R](#R) | [S](#S) | [T](#T) | [U](#U) | [V](#V) | [W](#W) | [X](#X) | [Y](#Y) | [Z](#Z)
 
 ## Demo
 
 - [A for Apple](#A) - A for Apple. **By [Python Ho](https://github.com/hopythonusergroup/from-the-community)**
 
-### <a name="A">A</a>
+## <a name="A"></a>A
 
-### <a name="B">B<a>
+## <a name="B"><a>B
 
-### <a name="C">C<a>
+## <a name="C"><a>C
+
+## <a name="D"></a>D
+
+## <a name="E"></a>E
+
+## <a name="F"></a>F
+
+## <a name="G"></a>G
+
+## <a name="H"></a>H
+
+## <a name="I"></a>I
+
+## <a name="J"></a>J
+
+## <a name="K"></a>K
+
+## <a name="L"></a>L
+
+## <a name="M"></a>M
+
+## <a name="N"></a>N
+
+## <a name="O"></a>O
+
+## <a name="P"></a>P
+
+## <a name="Q"></a>Q
+
+## <a name="R"></a>R
+
+## <a name="S"></a>S
+
+## <a name="T"></a>T
+
+## <a name="U"></a>U
+
+## <a name="V"></a>V
+
+## <a name="W"></a>W
+
+## <a name="X"></a>X
+
+## <a name="Y"></a>Y
+
+## <a name="Z"></a>Z
