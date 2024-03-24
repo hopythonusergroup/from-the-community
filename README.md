@@ -8,14 +8,19 @@
 4. Within your forked repo, make sure the "Branch" tab is set to the develop branch.
 5. Once you are on the correct branch, navigate to the file you intend to change and click the pencil icon to open it. Make the change and click the "Commit changes" button.
 6. Clone your forked repo locally via the terminal, replacing the username in the URL with your own (note: not all operating systems will use a $ as a terminal prompt).
+
 ```
 https://github.com/<your-username-here>/from-the-community.git
 ```
-7. Change directory into the folder
+
+1. Change directory into the folder
+
 ```
 cd from-the-community
 ```
-8. Verify that you are on the develop branch
+
+1. Verify that you are on the develop branch
+
 ```
 git branch
 ```
@@ -47,6 +52,8 @@ If there is anything to improve further with the contribution guide, please kind
 ## <a name="C"><a>C
 
 ## <a name="D"></a>D
+
+- [Django Girls Blog](https://github.com/kafui4k/dgho4) - A tutorial blog implementation from the official Django Girls tutorial manual for use at Django Girls workshop events worldwide. **By [@Kafui4k](https://twitter.com/Kafui4k)
 
 ## <a name="E"></a>E
 
