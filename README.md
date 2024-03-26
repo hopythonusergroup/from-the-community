@@ -70,6 +70,7 @@ If there is anything to improve further with the contribution guide, please kind
 ## <a name="K"></a>K
 
 ## <a name="L"></a>L
+ [LEXI](https://github.com/Sadick14/CodeAlpha_VoiceAsist) - Lexi is a python based voice assistance designed to suite the Linux OS. **By [@Issaka Sadick](www.linkedin.com/in/sadick-issaka-7b0b69194)
 
 ## <a name="M"></a>M
 
